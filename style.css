@@ -1,0 +1,11 @@
+html, body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+li {
+    cursor: pointer;
+    max-width: min-content;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+}
